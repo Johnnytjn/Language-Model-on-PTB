@@ -64,7 +64,7 @@ import time
 import numpy as np
 import tensorflow as tf
 
-import reader
+import read_data
 import util
 
 from tensorflow.python.client import device_lib
